@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import projectImage from "../public/A3.png";
 
-const SocialTracker: NextPage = () => {
+const AnalisaKredit: NextPage = () => {
   return (
     <div>
       <h1 className="text-xl text-indigo-600 mb-4 font-bold">
@@ -36,4 +36,4 @@ const SocialTracker: NextPage = () => {
   );
 };
 
-export default SocialTracker;
+export default AnalisaKredit;

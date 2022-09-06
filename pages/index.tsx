@@ -10,21 +10,21 @@ const Home: NextPage = () => {
   projectMetadataArray.push({
     title: "Staff IT at RSIA Family",
     desc: "Since : September 2019 - Sekarang",
-    linkUrl: "/data_analysis",
+    linkUrl: "/staff_it",
     image: "/FAMILY.png",
   });
 
   projectMetadataArray.push({
     title: "Help Desk at PT. Lawu Information Technology",
     desc: "Since : November 2016 - Desember 2018",
-    linkUrl: "/sound_processing",
+    linkUrl: "/help_desk",
     image: "/LAWU.png",
   });
 
   projectMetadataArray.push({
     title: "Analisa Kredit at KSP Swamitra Anugrah Artha Abadi",
     desc: "Since : Oktober 2015 - Juni 2016",
-    linkUrl: "/social_tracker",
+    linkUrl: "/analisa_kredit",
     image: "/A3.png",
   });
 

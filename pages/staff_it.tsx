@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import projectImage from "../public/FAMILY.png";
 
-const DataAnalysis: NextPage = () => {
+const StaffIt: NextPage = () => {
   return (
     <div>
       <h1 className="text-xl text-indigo-600 mb-4 font-bold">
@@ -51,4 +51,4 @@ const DataAnalysis: NextPage = () => {
   );
 };
 
-export default DataAnalysis;
+export default StaffIt;

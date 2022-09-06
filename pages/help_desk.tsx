@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import projectImage from "../public/LAWU.png";
 
-const SoundProcessing: NextPage = () => {
+const HelpDesk: NextPage = () => {
   return (
     <div>
       <h1 className="text-xl text-indigo-600 mb-4 font-bold">
@@ -39,4 +39,4 @@ const SoundProcessing: NextPage = () => {
   );
 };
 
-export default SoundProcessing;
+export default HelpDesk;
